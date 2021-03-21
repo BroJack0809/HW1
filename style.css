@@ -1,0 +1,39 @@
+body{
+	background-color:#84C1FF;
+}
+h1{
+	font-size:25px;position:absolute;left:700px;
+}
+h2{
+	position:relative;
+}
+.picture{
+	width:400px;height:550px;position:relative;left:550px;top:50px;margin-bottom:50px; 
+}
+.picture1{
+	width:400px;height:550px;position:relative;right:662px;
+}
+.media{
+	position:relative;left:680px;top:40px;
+}
+li{
+	list-style-type:korean-hanja-informal;
+}
+.green{
+	color:#006000;
+}
+.blue{
+	color:#0000C6;
+}
+.orange{
+	color:#FF5809;
+}
+.purple{
+	color:#921AFF;
+}
+.red{
+	color:#FF0000;
+}
+.alignup{
+	vertical-align:top;
+}
